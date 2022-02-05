@@ -9,6 +9,7 @@
 
     <fragment
         android:id="@+id/fragment_main"
+        android:name="ru.tyupik.piclab.ui.MainFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:layout="@layout/fragment_main"/>
