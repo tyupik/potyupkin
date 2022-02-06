@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PicLab</string>
+    <string name="retry">Попробуйте еще раз</string>
 </resources>
